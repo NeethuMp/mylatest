@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CementDirect</string>
+    <string name="title_activity_map">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_cement">ShowCement</string>
+    <string name="title_activity_shopping_bag">ShoppingBag</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_drawer_map">DrawerMapActivity</string>
+
+
+</resources>
